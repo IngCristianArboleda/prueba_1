@@ -4,6 +4,10 @@ class Modelo:
         self._correo = correo
         self._contrasena=contrasena
         self._plataforma=plataforma
+        
+    def funcion_nueva(self):
+        print("hola")
+        
 
 
     #@property
